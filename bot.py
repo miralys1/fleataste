@@ -20,7 +20,7 @@ async def gelesen(msg):
 
 
 async def invite(msg):
-    await msg.channel.send('https://discord.gg/duCsY9U')
+    await msg.channel.send('https://discord.gg/uDThPZw')
 
 
 @client.event
